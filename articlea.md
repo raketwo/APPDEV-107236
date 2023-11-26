@@ -68,7 +68,7 @@ Python has a wide range of libraries available that provide additional functiona
 tasks. Some of the most popular libraries include:
 
 | **Library** | **Description** |
-| ------ | ------ |
+| :------ | ------ |
 | **NumPy**|  A library for working with arrays and matrices.
 | **Pandas**|  A library for working with data frames and data analysis.
 | **Matplotlib**|  A library for creating visualizations and plots.
