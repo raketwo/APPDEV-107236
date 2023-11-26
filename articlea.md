@@ -6,7 +6,7 @@ easy-to-read syntax, which makes it an ideal choice for beginners and experts al
 we will explore some of the key features of Python and why it is such a popular choice for
 programmers.
 
-![N|Solid](https://www.python.org/static/img/python-logo@2x.png)
+![python_logo](https://www.python.org/static/img/python-logo@2x.png)
 
 ## Why Python is Popular
 
